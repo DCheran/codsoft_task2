@@ -67,5 +67,3 @@ The model learns patterns from movie characteristics and predicts ratings based 
 ## Author
 
 **Dosapati Cheran Veera Venkat**
-
-CodSoft Data Science Internship - Task 2
